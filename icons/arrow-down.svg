@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_20" data-name="Group 20" transform="translate(-1715 -378)">
+    <rect id="Rectangle_117" data-name="Rectangle 117" width="24" height="24" transform="translate(1715 378)" fill="none"/>
+    <g id="arrow-ios-downward" transform="translate(1720 386.5)">
+      <g id="Layer_2" data-name="Layer 2">
+        <path id="arrow-ios-downward-2" data-name="arrow-ios-downward" d="M12,16a1,1,0,0,1-.64-.23l-6-5A1,1,0,0,1,6.64,9.23L12,13.71l5.36-4.32A1.025,1.025,0,1,1,18.63,11l-6,4.83A1,1,0,0,1,12,16Z" transform="translate(-4.999 -8.999)" fill="#111"/>
+      </g>
+    </g>
+  </g>
+</svg>
